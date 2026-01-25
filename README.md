@@ -1,15 +1,31 @@
 # Customer Churn & Revenue Risk Analysis
 
 ## Objective
-To analyze customer churn patterns and identify revenue at risk using SQL, Excel, and PowerBI.
+Analyze customer churn patterns and quantify revenue at risk to help business teams improve retention and profitability.
 
-## Using SQL, Microsoft Excel and PowerBI.
+## Tools Used
+- PostgreSQL (Data cleaning & analysis)
+- Excel (Revenue impact calculations)
+- Power BI (Interactive dashboard)
+- GitHub (Version control & portfolio)
 
-## Dataset used- Telco Customer Churn from IBM
+## Dataset
+Telco Customer Churn dataset (public dataset)
 
-## Questions
-- What is the overall churn rate?
-- Which customer segments churn more?
-- How much revenue is at risk due to customer churn?
-- Which customers should be focused on for retention?
+## Key Business Questions
+- Which customer segments have the highest churn?
+- How much monthly revenue is at risk due to churn?
+- Which contract and payment types are most risky?
 
+## Key Insights
+- Month-to-month customers show the highest churn rate
+- Electronic check users contribute disproportionately to revenue loss
+- High monthly charges + short tenure = high churn risk
+
+## Deliverables
+- SQL scripts for data preparation and analysis
+- Excel revenue impact model
+- Power BI churn & revenue dashboard
+
+## Outcome
+This project demonstrates end-to-end business analysis from raw data to executive-ready insights.
